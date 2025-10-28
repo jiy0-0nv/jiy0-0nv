@@ -2,6 +2,7 @@
 
 ### I'm interested in various fields ...
 - AI (especially Computer Vision)
+- Robotics
 - Optimization
 - Cloud Computing
 - Web
